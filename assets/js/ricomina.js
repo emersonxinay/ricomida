@@ -13,5 +13,10 @@ $(function () {
     alert("El correo fue enviado")
   });
 
-
+  $('h3').dblclick(function (){
+    $("h3").css("color", "red");
+  })
+  
 });
+
+

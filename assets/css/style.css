@@ -38,3 +38,26 @@ padding-top: 30px;
   top: 105%;
   background-color: black;
 }
+
+/* ingredientes y preparación */
+.text-p-ingredi-prepa {
+  text-align: justify;
+
+}
+.h1_recetas {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 700;
+}
+
+/* suscripción */
+.ricomida_suscripcion {
+  font-family: 'Lobster', cursive;
+  font-weight: 400;
+}
+
+/* footer */
+
+.footer_ricomida{
+  font-family: 'Lobster', cursive;
+  font-weight: 400;
+}
