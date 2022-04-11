@@ -1,0 +1,40 @@
+body {
+  font-family: 'Lobster', cursive;
+  font-family: 'Cabin', sans-serif;
+  
+}
+
+/* header */
+.header_h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 49px;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+/* fotos y textos */
+.text-dark {
+  font-family: 'Cabin', sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+}
+
+/* main */
+.main_top{
+margin-top: 60px;
+padding-top: 30px;
+}
+
+/* carruseles */
+.carousel-indicators li{
+  border-radius: 80%;
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  
+}
+
+.carousel-indicators {
+  top: 105%;
+  background-color: black;
+}
